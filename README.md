@@ -4,26 +4,32 @@ A modern, responsive CV website showcasing professional experience, skills, and 
 
 ## 🌐 Live Website
 
-Your website is ready to be deployed! Follow the instructions below to make it live.
+Your website is ready to be deployed! Follow ONE of the options below:
 
-## 🚀 Quick Deployment to GitHub Pages
+## ⚡ OPTION 1: GitHub Pages (RECOMMENDED - 2 clicks!)
 
-### Step 1: Access Your Repository
-Visit: `https://github.com/aalwaily/Ali`
+### Quick Steps:
+1. **Click this link:** https://github.com/aalwaily/Ali/settings/pages
+2. **Under "Build and deployment" → "Source"**, select:
+   - Source: **Deploy from a branch**
+   - Branch: **`claude/gh-pages-011CUa7PejWtEEVx7Grhc3Ug`**
+   - Folder: **`/ (root)`**
+3. **Click "Save"**
 
-### Step 2: Enable GitHub Pages
-1. Click on **"Settings"** tab in your repository
-2. Scroll down and click **"Pages"** in the left sidebar
-3. Under **"Source"**, select:
-   - Branch: `claude/create-cv-website-011CUa7PejWtEEVx7Grhc3Ug`
-   - Folder: `/ (root)`
-4. Click **"Save"**
-
-### Step 3: Access Your Live Website
-After 1-2 minutes, your website will be live at:
+### Your website will be live at:
 ```
 https://aalwaily.github.io/Ali/
 ```
+(Takes 1-2 minutes to go live)
+
+---
+
+## 🚀 OPTION 2: Netlify Drop (30 seconds - EASIEST!)
+
+1. **Download** the `index.html` file from this repository
+2. **Go to:** https://app.netlify.com/drop
+3. **Drag and drop** the `index.html` file
+4. **Done!** Get instant URL like: `https://ali-algarea-cv.netlify.app`
 
 ## 📋 Alternative: Merge to Main Branch (Recommended)
 
